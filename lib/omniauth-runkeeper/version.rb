@@ -1,5 +1,5 @@
-module Omniauth
-  module Runkeeper
-    VERSION = "0.0.1"
+module OmniAuth
+  module RunKeeper
+    VERSION = '1.0.0'
   end
 end
