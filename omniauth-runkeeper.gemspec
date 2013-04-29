@@ -5,7 +5,7 @@ require "omniauth-runkeeper/version"
 Gem::Specification.new do |s|
   s.name        = "omniauth-runkeeper"
   s.version     = OmniAuth::RunKeeper::VERSION
-  s.authors     = ["Masaki Ishihara"]
+  s.authors     = ["Masaki Takeuchi"]
   s.email       = ["m.ishihara@gmail.com"]
   s.homepage    = "https://github.com/m4i/omniauth-runkeeper"
   s.summary     = %q{OmniAuth strategy for RunKeeper}
